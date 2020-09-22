@@ -1,0 +1,13 @@
+.article{
+    box-shadow: 1px 1px 10px rgb(235, 233, 233);
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.article-btn{
+    background-color:teal ;
+    color: white;
+}
+.article-btn:hover{
+    background-color:  rgba(12, 12, 34, 0.835);
+    color: white;
+}

@@ -1,0 +1,13 @@
+.about-container{
+    margin: 50px 100px 20px 100px;
+}
+.skill-container{
+    display: flex;
+    margin: 100px;
+}
+.skill-detail{
+    width: 500px;
+}
+p{
+    font-size: 18px;
+}

@@ -1,0 +1,46 @@
+.home{
+    display: flex;
+    padding: 100px;
+    padding-left: 400px;
+    height: 400px;
+}
+.home img{
+    width: 200px;
+    border-radius: 50%;
+}
+.home-detail{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.home-detail button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background: darkslategrey;
+    padding: 15px 20px;
+    font-weight: 500;
+    font-size: 25px;
+    color: white;
+    border: 2px solid white;
+    
+}
+.home-detail button:hover{
+    background: rgb(27, 113, 121);
+}
+.arrow {
+    border: solid rgb(255, 253, 253);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 5px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  /* .arrow:hover{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  } */
+  

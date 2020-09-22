@@ -1,0 +1,20 @@
+.single-project{
+    text-align: center;
+    padding: 20px;
+    height: 420px;
+    width: 400px;
+    box-shadow: 1px 1px 10px rgb(233, 232, 232);
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.single-project:hover{
+    box-shadow: 1px 1px 10px rgb(119, 117, 117);
+    border: 1px solid rgb(88, 88, 88);
+}
+.single-project img{
+    width: 70%;
+}
+.single-project h2,p{
+    margin-top: 50px;
+}
